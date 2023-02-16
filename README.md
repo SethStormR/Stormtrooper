@@ -1,5 +1,7 @@
 # Stormtrooper
-Stormtrooper Icon set for Gnome, XFCE and Budgie DE. Coming soon...
+Stormtrooper Icon set for Gnome, XFCE and Budgie DE.
+
+Stormtrooper Icon set is a mix of Papirus and Fluent icon theme which I have heavily edited with Inkscape. It's a Black & White theme with transparent elements and depth.
 
 Screenshots
 --
@@ -10,4 +12,4 @@ Screenshots
 
 Video
 --
-https://www.youtube.com/watch?v=TarTSle6NaE
+https://www.youtube.com/watch?v=pgPqKxFO0OM
