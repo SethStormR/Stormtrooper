@@ -2,7 +2,7 @@
 ![StormtrooperLogo](https://user-images.githubusercontent.com/60283532/219298264-e4851ee7-f914-4736-a301-69fe2f41c58c.png)
 
 
-Stormtrooper Icon set for Gnome, XFCE and Budgie DE.
+Stormtrooper Icon set for Gnome, XFCE, Cinnamon and Budgie DE.
 
 Stormtrooper Icon set is a mix of Papirus and Fluent icon theme which I have heavily edited with Inkscape. It's a Black & White theme with transparent elements and depth.
 
